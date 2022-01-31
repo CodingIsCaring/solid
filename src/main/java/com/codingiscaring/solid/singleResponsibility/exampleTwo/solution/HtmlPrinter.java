@@ -1,8 +1,8 @@
 package com.codingiscaring.solid.singleResponsibility.exampleTwo.solution;
 
-public class StandardOutputPrinter implements Printer {
-
+public class HtmlPrinter implements Printer {
+    @Override
     public void printEmailContent(Content content) {
-        System.out.println(content.toString());
+        // convert and print in html format
     }
 }
