@@ -5,7 +5,7 @@ public class Email {
 
     public String getSender() {
 		//...
-        return "sendee";
+        return "sender";
     }
 
     public String getSubject() {
@@ -14,10 +14,7 @@ public class Email {
     }
 
     public void printContent() {
-        // conversion this.content to string
-		// ...
         // print the content already converted to String
-        System.out.println(contentInStringFormat);
+        System.out.println(content.toString());
     }
-
 }

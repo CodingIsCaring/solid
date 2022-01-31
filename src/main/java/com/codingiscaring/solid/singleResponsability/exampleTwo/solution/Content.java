@@ -1,6 +1,8 @@
 package com.codingiscaring.solid.singleResponsability.exampleTwo.solution;
 
 public class Content {
-    public Content() {
+    @Override
+    public String toString() {
+        return "Content{}";
     }
 }
