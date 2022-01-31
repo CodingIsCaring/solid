@@ -1,4 +1,4 @@
-package com.codingiscaring.solid.singleResponsability.exampleOne.solution;
+package com.codingiscaring.solid.singleResponsibility.exampleOne.solution;
 
 public class EmailRemover {
 

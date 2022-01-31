@@ -1,6 +1,6 @@
-package com.codingiscaring.solid.singleResponsability.exampleOne.problem;
+package com.codingiscaring.solid.singleResponsibility.exampleOne.problem;
 
-import com.codingiscaring.solid.singleResponsability.exampleOne.Email;
+import com.codingiscaring.solid.singleResponsibility.exampleOne.Email;
 
 public class EmailManager {
     public Boolean sendEmail(Email email) {

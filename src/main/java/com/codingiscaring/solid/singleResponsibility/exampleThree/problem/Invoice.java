@@ -1,4 +1,4 @@
-package com.codingiscaring.solid.singleResponsability.exampleThree.problem;
+package com.codingiscaring.solid.singleResponsibility.exampleThree.problem;
 
 public class Invoice {
 
