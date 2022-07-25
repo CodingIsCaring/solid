@@ -1,10 +1,10 @@
-package com.codingiscaring.solid.singleResponsability.exampleThree.solution;
+package com.codingiscaring.solid.singleResponsibility.exampleThree.ourSolution;
 
 public class Logger {
 
     public Logger() {
         // here we need to write the Code for initialization
-        // that is Creating the Log file with necesssary details
+        // that is Creating the Log file with necessary details
     }
 
     public void info(String info) {

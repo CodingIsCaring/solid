@@ -1,4 +1,4 @@
-package com.codingiscaring.solid.singleResponsability.exampleTwo.problem;
+package com.codingiscaring.solid.singleResponsibility.exampleTwo.problem;
 
 public class Email {
     Content content;
@@ -14,7 +14,6 @@ public class Email {
     }
 
     public void printContent() {
-        // print the content already converted to String
         System.out.println(content.toString());
     }
 }

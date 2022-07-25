@@ -1,4 +1,4 @@
-package com.codingiscaring.solid.singleResponsability.exampleTwo.problem;
+package com.codingiscaring.solid.singleResponsibility.exampleTwo.problem;
 
 public class Main {
     public void run() {

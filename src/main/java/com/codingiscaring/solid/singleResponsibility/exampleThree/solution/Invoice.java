@@ -1,4 +1,4 @@
-package com.codingiscaring.solid.singleResponsability.exampleThree.solution;
+package com.codingiscaring.solid.singleResponsibility.exampleThree.solution;
 
 import java.util.Date;
 
